@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.saveActions.organizeImports": true,
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.format.settings.url": ".vscode/eclipse-java-google-style.xml",
+}

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BuslinesApplication<buslines>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.github.boonx.sbabkodtest.buslines.BuslinesApplication",
+            "projectName": "buslines",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
