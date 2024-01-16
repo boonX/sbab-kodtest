@@ -1,0 +1,45 @@
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333; /* Adjust color as needed */
+}
+
+body {
+  background-color: #f4f4f4; /* Adjust color as needed */
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  color: #333; /* Adjust color as needed */
+}
+
+button {
+  background-color: #007bff; /* Adjust color as needed */
+  color: #fff; /* Adjust color as needed */
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3; /* Adjust color as needed */
+}
+
+ul {
+  list-style-type: none;
+}

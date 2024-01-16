@@ -1,0 +1,18 @@
+.bus-line {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.bus-line__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.25rem;
+}
+
+.bus-line__top-ten-placement {
+    font-weight: bold;
+}
